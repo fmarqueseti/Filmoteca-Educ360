@@ -28,7 +28,7 @@ Além da finalidade de documentação, a funcionalidade de exportação permite 
 │   ├── MOVIES-IMP.csv         # Arquivos de importação (gerado automaticamente por ferramenta de IA)
 │   ├── MOVIES-EXP.csv         # Arquivos de exportação
 ├── DOC/                       # Arquivos de documentação
-│   ├── videoteca.png          # Definição do arquivo de dados
+│   ├── VIDEOTECA.png          # Definição do arquivo de dados
 │   ├── VIDEOTECA.drawio       # Diagrama dos componentes do sistema
 │   ├── MNVIDPRG.png           # Diagrama dos componentes do menu principal
 ```
