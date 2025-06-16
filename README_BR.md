@@ -21,16 +21,16 @@ Além da finalidade de documentação, a funcionalidade de exportação permite 
 ## 📁 Estrutura do Projeto
 
 ```
-├── SRC/                                      # Programas fonte COBOL, módulos principais
-│   ├── CPY/                                # COPYBOOKS utilizados nos programas
-├── DAT/                                      # Arquivos de dados
-│   ├── MOVIES.dat                    # Arquivo indexado de dados de filmes
-│   ├── MOVIES-IMP.csv            # Arquivos de importação (gerado automaticamente por ferramenta de IA)
-│   ├── MOVIES-EXP.csv           # Arquivos de exportação
-├── DOC/                                     # Arquivos de documentação
-│   ├── videoteca.png                 # Definição do arquivo de dados
+├── SRC/                       # Programas fonte COBOL, módulos principais
+│   ├── CPY/                   # COPYBOOKS utilizados nos programas
+├── DAT/                       # Arquivos de dados
+│   ├── MOVIES.dat             # Arquivo indexado de dados de filmes
+│   ├── MOVIES-IMP.csv         # Arquivos de importação (gerado automaticamente por ferramenta de IA)
+│   ├── MOVIES-EXP.csv         # Arquivos de exportação
+├── DOC/                       # Arquivos de documentação
+│   ├── videoteca.png          # Definição do arquivo de dados
 │   ├── VIDEOTECA.drawio       # Diagrama dos componentes do sistema
-│   ├── MNVIDPRG.png             # Diagrama dos componentes do menu principal
+│   ├── MNVIDPRG.png           # Diagrama dos componentes do menu principal
 ```
 ---
 
