@@ -171,6 +171,13 @@ cobc -x -o FILMOTECA MNVIDPRG.cob INVIDPRG.o ALVIDPRG.o EXVIDPRG.o LSVIDPRG.o IM
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+Assista à apresentação do projeto no YouTube:
+▶️ [https://youtu.be/qcP_ejPqp70](https://youtu.be/qcP_ejPqp70)
+
+---
+
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue*, propor uma *pull request* ou enviar sugestões.
