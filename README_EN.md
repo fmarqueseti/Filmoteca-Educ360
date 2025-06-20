@@ -152,7 +152,6 @@ Beyond documentation, the export functionality enables external tools—such as 
 Compilation depends on your environment. **GnuCOBOL** example:
 
 ```
-bash
 cobc -c INVIDPRG.cob
 cobc -c ALVIDPRG.cob
 cobc -c EXVIDPRG.cob
@@ -162,6 +161,8 @@ cobc -c XPVIDPRG.cob
 cobc -x -o FILMOTECA MNVIDPRG.cob INVIDPRG.o ALVIDPRG.o EXVIDPRG.o LSVIDPRG.o IMVIDPRG.o XPVIDPRG.o
 ./FILMOTECA
 ```
+
+> Make sure the `DAT/` directory exists and that the `MOVIES.dat` file can be created, read, and modified within it.
 
 ---
 

@@ -156,7 +156,7 @@ Além da finalidade de documentação, a funcionalidade de exportação permite 
 
 A compilação e execução depende do ambiente. Exemplo do **GnuCOBOL**:
 
-```bash
+```
 cobc -c INVIDPRG.cob
 cobc -c ALVIDPRG.cob
 cobc -c EXVIDPRG.cob
